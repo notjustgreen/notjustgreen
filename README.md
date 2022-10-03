@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 [![Notjustgreen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=notjustgreen&theme=xcode)](https://github.com/notjustgreen)
 ![](https://stats.justsong.cn/api/csdn?id=m0_69313458)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=notjustgreen&theme=dark)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Aimee's+coding+world)](https://git.io/typing-svg)
