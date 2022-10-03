@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-LOL-1572B6?style=flat-square&logo=lol)
 ![](https://img.shields.io/badge/-C++-oringe?style=flat-square&logo=c++)
 [![Notjustgreen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=notjustgreen&theme=xcode)](https://github.com/notjustgreen)
+![](https://stats.justsong.cn/api/csdn?id=m0_69313458)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=notjustgreen&theme=dark)](https://git.io/streak-stats)
