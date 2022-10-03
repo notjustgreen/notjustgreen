@@ -9,3 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Metrics](https://metrics.lecoq.io/notjustgreen?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 ![notjustgreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=notjustgreen&show_icons=true&theme=radical)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=green)
+![](https://img.shields.io/badge/-LOL-1572B6?style=flat-square&logo=lol)
+![](https://img.shields.io/badge/-C++-oringe?style=flat-square&logo=c++)
+[![Notjustgreen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=notjustgreen&theme=xcode)](https://github.com/notjustgreen)
