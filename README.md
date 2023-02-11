@@ -12,13 +12,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=green)
 ![](https://img.shields.io/badge/-LOL-1572B6?style=flat-square&logo=lol)
 ![](https://img.shields.io/badge/-C++-oringe?style=flat-square&logo=c++)
-[![Notjustgreen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=notjustgreen&theme=xcode)](https://github.com/notjustgreen)
 
 ![](https://stats.justsong.cn/api/csdn?id=m0_69313458)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=notjustgreen&theme=dark)](https://git.io/streak-stats)
 ![](https://leetcode-badge.haozibi.dev/v1cn/practical-villaniqj4.svg)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/practical-villaniqj4.svg?type=past-year)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/practical-villaniqj4.svg?type=past-year&color=yellow)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/practical-villaniqj4.svg?type=past-year&color=blue)
 ![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/practical-villaniqj4.svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Aimee's+coding+world)](https://git.io/typing-svg)
